@@ -694,3 +694,8 @@ footer span a:hover{
     font-family: fantasy;
     font-size: 18px;
 }
+.media{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
